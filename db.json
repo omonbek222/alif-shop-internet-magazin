@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 13 Pro",
+        "price": "14 000 000 so'm",
+        "monthly": "1 200 000 so'm/oy",
+        "image": "https://minapi.beemarket.uz/prod-media/productImages/17181061175BX5ock2uPnx.webp"
+      },
+      {
+        "id": 2,
+        "title": "Samsung Galaxy S23",
+        "price": "13 000 000 so'm",
+        "monthly": "1 100 000 so'm/oy",
+        "image": "https://minapi.beemarket.uz/prod-media/productImages/1718190584MIrNa1qaagif.webp"
+      },
+      {
+        "id": 3,
+        "title": "Redmi Note 12",
+        "price": "3 000 000 so'm",
+        "monthly": "250 000 so'm/oy",
+        "image": "https://minapi.beemarket.uz/prod-media/productImages/1718098391O5UtBQSVp8Hr.webp"
+      },
+      {
+        "id": 4,
+        "title": "LG 55' Smart TV",
+        "price": "8 000 000 so'm",
+        "monthly": "700 000 so'm/oy",
+        "image": "https://store.digitalworld-tech.com/image/cache/catalog/%20LG/lg%202/81dVOMzP4oL._AC_SL1500_-1100x1100w.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Asus VivoBook",
+        "price": "9 000 000 so'm",
+        "monthly": "800 000 so'm/oy",
+        "image": "https://minapi.beemarket.uz/prod-media/productImages/1739278650rgO2m7EehTof.webp"
+      }
+    ]
+  }
+  
